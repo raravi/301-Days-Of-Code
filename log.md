@@ -20,3 +20,11 @@ The daily log of my **#301DaysOfCode** challenge.
 **Link to work:**
 1. [sudoku](https://github.com/raravi/sudoku/commit/e48786bfb4c0a66a79a9f350dee1b05b94fe37fe)
 2. [todoist](https://github.com/raravi/todoist-clone/commit/25366d22437923752d6f054636ef21fa0e97b4c5)
+
+### Day 3: 29 Jan 2020
+
+**Today's Progress:** Sudoku: Added Status buttons. Made the static version of the site responsive!
+
+**Thoughts:** Not much progress, took awhile to get the responsive layout setup properly.
+
+**Link to work:** [sudoku](https://github.com/raravi/sudoku/commit/84f7100a260fce2da8ea7b974956a4dd7649917b)
