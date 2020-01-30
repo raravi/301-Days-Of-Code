@@ -28,3 +28,11 @@ The daily log of my **#301DaysOfCode** challenge.
 **Thoughts:** Not much progress, took awhile to get the responsive layout setup properly.
 
 **Link to work:** [sudoku](https://github.com/raravi/sudoku/commit/84f7100a260fce2da8ea7b974956a4dd7649917b)
+
+### Day 4: 30 Jan 2020
+
+**Today's Progress:** Sudoku: Moved the code into different components. Added Timer functionality using [moment.js](https://momentjs.com/) and useEffect hook. Used the map() function to keep the code DRY.
+
+**Thoughts:** moment.js took most of my time today.
+
+**Link to work:** [sudoku](https://github.com/raravi/sudoku/commit/46c320b1d4643d0215cb52599971230b02f4744c)
