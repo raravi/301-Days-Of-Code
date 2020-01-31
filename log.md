@@ -36,3 +36,11 @@ The daily log of my **#301DaysOfCode** challenge.
 **Thoughts:** moment.js took most of my time today.
 
 **Link to work:** [sudoku](https://github.com/raravi/sudoku/commit/46c320b1d4643d0215cb52599971230b02f4744c)
+
+### Day 5: 31 Jan 2020
+
+**Today's Progress:** Sudoku: Most of the frontend events/functions are wired. The Game is functional!
+
+**Thoughts:** Good progress today.
+
+**Link to work:** [sudoku](https://github.com/raravi/sudoku/commit/e87d0de0fb87dd5ec41eb3e884cc551a126b0ef8)
