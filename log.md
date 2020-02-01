@@ -44,3 +44,15 @@ The daily log of my **#301DaysOfCode** challenge.
 **Thoughts:** Good progress today.
 
 **Link to work:** [sudoku](https://github.com/raravi/sudoku/commit/e87d0de0fb87dd5ec41eb3e884cc551a126b0ef8)
+
+### Day 6: 1 Feb 2020
+
+**Today's Progress:** Prepared for interview on HackerRank. Added the projects - todovanilla, tictactoe, bitcoin converter & sudoku - to github pages!
+
+**Thoughts:** Time spent setting things up.
+
+**Link to work:**
+1. [Sudoku](https://raravi.github.io/sudoku/)
+2. [todo](https://raravi.github.io/todo-vanilla/)
+3. [Bitcoin converter](https://raravi.github.io/bitcoin-converter/)
+4. [Tic Tac Toe](https://raravi.github.io/tictactoe/)
