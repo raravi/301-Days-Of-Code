@@ -56,3 +56,12 @@ The daily log of my **#301DaysOfCode** challenge.
 2. [todo](https://raravi.github.io/todo-vanilla/)
 3. [Bitcoin converter](https://raravi.github.io/bitcoin-converter/)
 4. [Tic Tac Toe](https://raravi.github.io/tictactoe/)
+
+### Day 7: 3 Feb 2020
+
+**Today's Progress:** Added a unique sudoku function and added 'Solved' overlay on win!
+Used sudoku solver by [robatron](https://github.com/robatron/sudoku.js)
+
+**Thoughts:** The sudoku web app is ready!
+
+**Link to work:** [Sudoku](https://raravi.github.io/sudoku/)
