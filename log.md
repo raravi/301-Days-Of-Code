@@ -65,3 +65,18 @@ Used sudoku solver by [robatron](https://github.com/robatron/sudoku.js)
 **Thoughts:** The sudoku web app is ready!
 
 **Link to work:** [Sudoku](https://raravi.github.io/sudoku/)
+
+### Day 8: 4 Feb 2020
+
+**Today's Progress:** Sudoku: Added documentation. Moved the Sudoku solver to a separate folder.
+Todoist-clone: Got stuck with using Context, finally figured out the errors!
+Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & sudoku.
+
+**Thoughts:** Time spent on organizing code.
+
+**Link to work:**
+1. [Sudoku](https://raravi.github.io/sudoku/)
+2. [todo](https://raravi.github.io/todo-vanilla/)
+3. [Bitcoin converter](https://raravi.github.io/bitcoin-converter/)
+4. [Tic Tac Toe](https://raravi.github.io/tictactoe/)
+5. [todoist](https://github.com/raravi/todoist-clone)
