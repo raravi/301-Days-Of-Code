@@ -80,3 +80,11 @@ Added Meta tags to the projects - todovanilla, tictactoe, bitcoin converter & su
 3. [Bitcoin converter](https://raravi.github.io/bitcoin-converter/)
 4. [Tic Tac Toe](https://raravi.github.io/tictactoe/)
 5. [todoist](https://github.com/raravi/todoist-clone)
+
+### Day 9: 5 Feb 2020
+
+**Today's Progress:** Created a Twitter bot to retweet/post/favorite tweets. Deployed the node.js app to Heroku free tier. It's currently running from there!
+
+**Thoughts:** Understood the basics of node.js / Twitter API / bot setup / Heroku deployment.
+
+**Link to work:** [twitter-bot](https://github.com/raravi/twitter-bot)
