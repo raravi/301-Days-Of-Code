@@ -146,3 +146,11 @@ Chat App Server: On user being authenticated, chat history will be fetched from 
 **Link to work:**
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
+
+### Day 16: 13 Feb 2020
+
+**Today's Progress:** Chat App Client: Added Logout functionality to the website. DRYed the CSS, and themed the site a bit differently! Made the site responsive too!!
+
+**Thoughts:** Progress on the UI side!
+
+**Link to work:** [client](https://github.com/raravi/chat-app-client)
