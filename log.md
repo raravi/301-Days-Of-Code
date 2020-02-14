@@ -154,3 +154,13 @@ Chat App Server: On user being authenticated, chat history will be fetched from 
 **Thoughts:** Progress on the UI side!
 
 **Link to work:** [client](https://github.com/raravi/chat-app-client)
+
+### Day 17: 14 Feb 2020
+
+**Today's Progress:** Chat App Client/Server: Added Forgot / Reset password functionality. Learnt to send mail from node.js backend using nodemailer. Created a /resetpassword route from backend to handle reset requests. The /resetpassword page looks the same as 'texter' chat-app, even though its just a plain HTML page!
+
+**Thoughts:** Added a challenging functionality to the app!
+
+**Link to work:**
+1. [server](https://github.com/raravi/chat-app-server)
+2. [client](https://github.com/raravi/chat-app-client)
