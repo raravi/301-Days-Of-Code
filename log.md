@@ -164,3 +164,13 @@ Chat App Server: On user being authenticated, chat history will be fetched from 
 **Link to work:**
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
+
+### Day 18: 15 Feb 2020
+
+**Today's Progress:** Chat App Server: Added Rate Limiter middleware to prevent timing attacks.
+The Password Reset Token has been hashed prior to saving it in the DB, so it doesn’t compromise user account even if the DB is attacked (e.g., hacker gaining read access to the DB and see plain-text tokens is a threat!)
+Removed the pseudorandom number generator Math.random() and replaced it with the cryptographically secure random number generator crypto.randomBytes() function. Math.random() is predictable and a hacker can generate numbers to determine what would be generated next. Crypto.randomBytes() uses system entropy to generate numbers, and is used by OpenSSL!
+
+**Thoughts:** Added security features to the app, making it more secure against attacks!
+
+**Link to work:** [server](https://github.com/raravi/chat-app-server)
