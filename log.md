@@ -174,3 +174,13 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts:** Added security features to the app, making it more secure against attacks!
 
 **Link to work:** [server](https://github.com/raravi/chat-app-server)
+
+### Day 19: 16 Feb 2020
+
+**Today's Progress:** Chat App Client/Server: Learnt about XSS / CSRF attacks and best strategies to handle each. Implemented JWT Signing / Verification correctly. Checking Origin to prevent XSS attacks. HMAC Token is generated with increased key length for better security.
+
+**Thoughts:** Added security features to the app!
+
+**Link to work:**
+1. [server](https://github.com/raravi/chat-app-server)
+2. [client](https://github.com/raravi/chat-app-client)
