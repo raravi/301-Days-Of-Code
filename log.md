@@ -184,3 +184,19 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Link to work:**
 1. [server](https://github.com/raravi/chat-app-server)
 2. [client](https://github.com/raravi/chat-app-client)
+
+### Day 20: 17 Feb 2020
+
+**Today's Progress:** Research for a Markdown Editor App to be written in React!
+
+**Thoughts:** No code today, only designing.
+
+**Link to work:**
+
+### Day 21: 18 Feb 2020
+
+**Today's Progress:** Set up the barebones of the project. Headers were designed.
+
+**Thoughts:** It's a start. I'm still not sure which features of a Markdown editor are feasible.
+
+**Link to work:** [notes-client](https://github.com/raravi/notes-client)
