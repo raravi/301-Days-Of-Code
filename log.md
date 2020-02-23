@@ -216,3 +216,19 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts:** Lots of bugs squashed!
 
 **Link to work:** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 24: 21 Feb 2020
+
+**Today's Progress:** Added italics, strikethrough, code, underline pairs! Moved code to Pairs/Headers module.
+
+**Thoughts:** Good progress today.
+
+**Link to work:** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 25: 22 Feb 2020
+
+**Today's Progress:** Modified names of Pairs/Headers for better readability. Fixed 'Backspace on empty line' issue.
+
+**Thoughts:** Cleaned up code!
+
+**Link to work:** [notes-client](https://github.com/raravi/notes-client)
