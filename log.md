@@ -248,3 +248,11 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts:** Nearing a stable version of the app!
 
 **Link to work:** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 28: 26 Feb 2020
+
+**Today's Progress:** Added fix to Ordered List to correct item numbers upon edits.
+
+**Thoughts:** Nearing a stable version of the app!
+
+**Link to work:** [notes-client](https://github.com/raravi/notes-client)
