@@ -256,3 +256,11 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts:** Nearing a stable version of the app!
 
 **Link to work:** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 29: 27 Feb 2020
+
+**Today's Progress:** Added CUT/COPY/DELETE functionality for Selected text. Fixed Ordered List numbering on text CUT.
+
+**Thoughts:** Learning to work with browser capabilities, rather than rewriting everything!
+
+**Link to work:** [notes-client](https://github.com/raravi/notes-client)
