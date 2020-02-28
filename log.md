@@ -264,3 +264,11 @@ Removed the pseudorandom number generator Math.random() and replaced it with the
 **Thoughts:** Learning to work with browser capabilities, rather than rewriting everything!
 
 **Link to work:** [notes-client](https://github.com/raravi/notes-client)
+
+### Day 30: 28 Feb 2020
+
+**Today's Progress:** Added PASTE functionality for Selected text. Fixed issue with Anchor/Focus node order. Moved Editor code to a different folder.
+
+**Thoughts:** I think it's time to make editor look good :)
+
+**Link to work:** [notes-client](https://github.com/raravi/notes-client)
